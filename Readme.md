@@ -7,7 +7,13 @@ Please ask if you can contact my employer before doing so.
 ### Awards
 [CyberSecurity Excellence - Jit](https://cybersecurity-excellence-awards.com/candidates/jit-2/)
 
+---
+
 ### Podcasts
+
+---
 
 ### Analysts
  - QM/IDC March 2, 2023
+
+---
