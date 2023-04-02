@@ -6,6 +6,8 @@ Please ask if you can contact my employer before doing so.
 
 ### Awards
 [CyberSecurity Excellence - Jit](https://cybersecurity-excellence-awards.com/candidates/jit-2/)
+[Eye On A.I. - Pinecone](https://www.youtube.com/watch?v=FUgp4oaxj-M)
+[The Coder Career - Wilco](https://podcasts.apple.com/gb/podcast/61-on-freund-ceo-of-wilco/id1588358808?i=1000604922485)
 
 ---
 
@@ -14,6 +16,6 @@ Please ask if you can contact my employer before doing so.
 ---
 
 ### Analysts
- - QM/IDC March 2, 2023
+ - IDC March 2, 2023
 
 ---
