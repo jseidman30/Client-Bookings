@@ -11,7 +11,7 @@ Please ask if you can contact my employer before doing so.
 
 ### Podcasts
 ##### (Format: Podcast Name - Client Name)
- - [Engineering Founders Podcast - Wilco](https://podcasts.apple.com/us/podcast/prioritizing-ignoring-fires-mastering-pivots-unexpected/id1607135532?i=1000616172734)
+ - [Engineering Founders - Wilco](https://podcasts.apple.com/us/podcast/prioritizing-ignoring-fires-mastering-pivots-unexpected/id1607135532?i=1000616172734)
  - [The Coder Career - Wilco](https://podcasts.apple.com/gb/podcast/61-on-freund-ceo-of-wilco/id1588358808?i=1000604922485)
  - [High Tech On The Low - Wilco](https://open.spotify.com/episode/2ZcqxyVLpXYZ9pqhNkPip3?si=c06eb0002c25453d&nd=1)
  - [Eye On A.I. - Pinecone](https://www.youtube.com/watch?v=FUgp4oaxj-M)
