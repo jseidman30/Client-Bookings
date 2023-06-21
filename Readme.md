@@ -19,6 +19,7 @@ Please ask if you can contact my employer before doing so.
  - [Software Engineering Radio - Jit](https://www.se-radio.net/2023/06/se-radio-568-simon-bennetts-on-owasp-dynamic-application-security-testing-tool-zap/)
  - [CyberWork - Jit](https://www.infosecinstitute.com/podcast/moving-from-shift-left-to-born-left/)
  - [The Post-Quantum World - Quantum Machines](https://www.protiviti.com/us-en/podcast/quantum-error-correction-quantum-machines)
+ - [Stackoverflow - Codium](https://stackoverflow.blog/2023/06/20/stress-test-your-code-as-you-write-it-ep-581/)
 
 ---
 
